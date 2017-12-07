@@ -111,6 +111,7 @@ https://filezilla-project.org/download.php?platform=win64 (Windows 64 bit)
 https://filezilla-project.org/download.php?platform=win32 (Windows 32 bit) 
 https://filezilla-project.org/download.php?platform=osx (Mac OS)
 https://filezilla-project.org/download.php?platform=linux (Linux)
+
 2. Klik op Download FileZilla Client. 
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/17.png?raw=true)
  
