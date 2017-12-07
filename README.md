@@ -67,6 +67,7 @@ Belangrijk: Wacht niet te lang met de volgende stappen. Als er een inactiviteit 
 
 
 5. Klik op Nieuw en maak een nieuwe database aan. Voer bij Databasenaam “apotheek” in en laat alle andere opties voor wat ze zijn. Klik op aanmaken. 
+
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/13.png?raw=true)
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/14.png?raw=true)
  
