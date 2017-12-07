@@ -53,6 +53,7 @@ Website implementeren
 Website database importeren
 
 4.1 Zet WAMP aan. Dit wordt gedaan door op de WAMP-snelkoppeling te klikken die op uw bureaublad staat en vervolgens het programma toestemming geven om wijzigingen te maken op de computer door op Ja. Zorg wel dat Skype uit staat voordat WAMP wordt aangezet, anders doet hij het niet. 
+
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/8.png?raw=true)
  
 Het WAMP-icoontje zal rechts onderin verschijnen. Als het icoontje na een tijdje groen wordt, betekent dat dat het werkt.
