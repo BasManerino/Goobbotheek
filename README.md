@@ -113,6 +113,7 @@ https://filezilla-project.org/download.php?platform=osx (Mac OS)
 https://filezilla-project.org/download.php?platform=linux (Linux)
 
 2. Klik op Download FileZilla Client. 
+
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/17.png?raw=true)
  
 3. Selecteer FileZilla (NIET FileZilla Pro) en klik op Download 
