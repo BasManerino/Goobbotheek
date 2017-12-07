@@ -129,6 +129,7 @@ https://filezilla-project.org/download.php?platform=linux (Linux)
 
 
 8. Selecteer Goobbotheek in de Mijn sites lijst en voer de volgende gegevens in bij Algemeen: 
+
 •	Host: 185.224.137.106
 
 •	Poort: 21
