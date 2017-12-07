@@ -12,6 +12,7 @@ WAMP installeren:
  
 
 4. Voer het gedownloade bestand uit. U zult een bericht zien dat vraagt of u dit programma wijzigen wilt laten maken aan uw computer, selecteer Ja.
+
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/5.png?raw=true)
 
  
