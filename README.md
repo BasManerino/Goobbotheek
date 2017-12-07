@@ -21,6 +21,8 @@ Klik vervolgens op Next zodat u door alle stappen heen kunt gaan. Accepteer de L
 
 
  
+	
+
 Test Mail Server Tool
 
 1. Ga naar http://www.toolheap.com/test-mail-server-tool/ en klik op Download Test Mail Server Tool. Zorg wel dat AdBlock uit staat voordat u de website opent, anders wordt de download link niet zichtbaar. 
