@@ -3,14 +3,15 @@ WAMP installeren:
 1. Ga naar: http://www.wampserver.com/en/#download-wrapper 
  
 2. Zoek uit welke bits versie uw computer heeft en klik op een van de twee gele knoppen, afhankelijk van de bits versie. De bits versie ziet u bij Instellingen > Systeem > Info > Type systeem
-![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/2.png)
+![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/2.png?raw=true)
 
 
 3. Klik op download directly en daarna op de grote groene Download knop. 
- ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/1.png?raw=true)
+![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/1.png?raw=true)
  
 
-4. Voer het gedownloade bestand uit. U zult een bericht zien dat vraagt of u dit programma wijzigen wilt laten maken aan uw computer, selecteer Ja. 
+4. Voer het gedownloade bestand uit. U zult een bericht zien dat vraagt of u dit programma wijzigen wilt laten maken aan uw computer, selecteer Ja.
+
  
 Klik vervolgens op Next zodat u door alle stappen heen kunt gaan. Accepteer de License Agreement, klik op Next, laat de installatie map voor wat het is zodat het in de C: map wordt geïnstalleerd, klik op Next, selecteer Create a Desktop icon en klik op Next. Laat het programma installeren en geef het toegang langs de firewall zodra/als dat word aangegeven. Klik weer op Next, laat de volgende opties voor wat ze zijn, klik op Next en klik dan op Finish. 
 
