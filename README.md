@@ -40,8 +40,11 @@ Website implementeren
 
 
 3.2 Pak het pakket uit in dezelfde map. 
+
 3.3 Ga via Windows Verkenner naar de C: schijf, open de map wamp64 en open in die map www. 
+
 3.4 In de www map, maak een nieuwe map aan genaamd 2017-2018. 
+
 3.5 Zet de uitgepakte map in de 2017-2018 map. 
 ![Alt text](https://github.com/BasManerino/Goobbotheek/blob/master-1/7.png?raw=true)
 
