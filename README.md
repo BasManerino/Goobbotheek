@@ -130,12 +130,19 @@ https://filezilla-project.org/download.php?platform=linux (Linux)
 
 8. Selecteer Goobbotheek in de Mijn sites lijst en voer de volgende gegevens in bij Algemeen: 
 •	Host: 185.224.137.106
+
 •	Poort: 21
+
 •	Protocol: FTP – File Transfer Protocol
+
 •	Versleuteling: Gebruik expliciete FTP via TLS indien beschikbaar
+
 •	Inlogtype: Normaal
+
 •	Gebruiker: u213695949
+
 •	Wachtwoord: sRjxXqdxqy1Y
+
 
 Klik vervolgens op Verbinden.
 
