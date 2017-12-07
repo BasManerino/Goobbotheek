@@ -38,6 +38,7 @@ Website implementeren
 
 3.1 Download de website van GitHub via deze website (klik op Clone or download en selecteer Download ZIP: https://github.com/BasManerino/Goobbotheek
 
+
 3.2 Pak het pakket uit in dezelfde map. 
 3.3 Ga via Windows Verkenner naar de C: schijf, open de map wamp64 en open in die map www. 
 3.4 In de www map, maak een nieuwe map aan genaamd 2017-2018. 
