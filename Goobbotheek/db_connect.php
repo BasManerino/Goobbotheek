@@ -8,7 +8,7 @@ switch ($database_select)
 	    $password = "";
 	    $dbname = "apotheek";
         break;
-    case "goobbotheek.com":
+    default:
         $servername = "mysql.hostinger.nl";
         $username = "u213695949_bas";
         $password = "Ikm4j0FRh4Vj";
