@@ -33,13 +33,10 @@
             <tbody>
             <?php
 
-
-
-
-
-
             $sql = "SELECT * FROM medicijn";
+            //var_dump($sql);
             $result = $conn->query($sql);
+            //var_dump($result);
 
             if ($result->num_rows > 0) {
             echo "<tr>
