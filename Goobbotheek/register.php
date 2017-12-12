@@ -82,7 +82,7 @@ if ( $result )
               </style>
             </head>
             <body> <h3> Activatiemail apotheek Goobbotheek </h3>
-            Uw huisarts heeft u geregistreerd, klik <a href='http://localhost/2017-2018/Goobbotheek/Goobbotheek/activatie.php?email=".$email."'>hier</a> om uw account te activeren.
+            Uw huisarts heeft u geregistreerd, klik <a href='www.goobbotheek.com/activatie.php?email=".$email."'>hier</a> om uw account te activeren.
             </body>
           </html>";
 

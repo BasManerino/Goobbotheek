@@ -397,7 +397,7 @@ if ( $result )
                         </style>
                     </head>
                     <body>		
-                    Uw huisarts heeft uw recept aangemaakt, klik <a href='http://localhost/2017-2018/Goobbotheek/Goobbotheek/loginform2.php?verzekeringsnummer=".$verzekeringsnummer."'>hier</a> om de leverdata te wijzigen indien gewenst. Hier moet u uw verzekeringsnummer nog een keer invoeren en ook de recept ID die in deze mail staat.
+                    Uw huisarts heeft uw recept aangemaakt, klik <a href='www.goobbotheek.com/loginform2.php?verzekeringsnummer=".$verzekeringsnummer."'>hier</a> om de leverdata te wijzigen indien gewenst. Hier moet u uw verzekeringsnummer nog een keer invoeren en ook de recept ID die in deze mail staat.
                     <br>
                     Recept ID: ".$last_id."
                     <br>

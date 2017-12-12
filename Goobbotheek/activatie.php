@@ -31,11 +31,11 @@ include("db_connect.php");
 
           if ($result){
             echo "U heeft zich succesvol geactiveerd! U kan nu inloggen. U wordt gestuurd naar de login pagina.";
-            header("refresh:7;url=loginform.php");
+            header("refresh:7;url=loginform_patient.php");
           }
           else {
             echo "Er is een probleem opgetreden waardoor het account niet geactiveerd is. Neem contact op met uw huisarts.";
-            header("refresh:7;url=registerform.php");
+            header("refresh:7;url=www.goobbotheek.com");
           }
 ?>
 
