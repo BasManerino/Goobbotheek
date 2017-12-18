@@ -483,6 +483,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`verzekeringsnummer`, `email`, `achternaam`, `geboorteplaats`, `adres`, `telefoonnummer`, `postcode`, `apotheker`, `huisarts`, `post`, `verified`, `rol`) VALUES
 (123, 'test@gmail.com', 'testnaam', 'teststad', 'teststraat 2', '124', '1234BB', 1, 2, 'Kroonhorst', 1, 1),
+(151, 'skottdekoster@hotmail.nl', 'de Koster', 'Utrecht', 'Skottlaan 15', '032', 'DKRI 55', 1, 1, 'Kroonhorst', 1, 1),
 (311, 'peters@mail.com', 'Peters', 'Amsterdam', 'Dreef 113', '123', '1123 GH', 1, 2, 'Kroonhorst', 1, 1),
 (323, 'mouni@mail.com', 'Mouni', 'Delphi', 'Reigersbos\r\n23', '456', '1189 IJ', 3, 2, 'Kroonhorst', 1, 1),
 (334, 'veen@mail.com', 'Van Veen', 'Amsterdam', 'Made 5', '789', '1190 UJ', 3, 2, 'Kroonhorst', 1, 1),
